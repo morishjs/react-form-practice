@@ -5,5 +5,5 @@ export interface InputProps {
     label: string;
     placeholder?: string;
     type?: HTMLInputTypeAttribute
-    // validate?: any[];
+    validate?: any[];
 }
